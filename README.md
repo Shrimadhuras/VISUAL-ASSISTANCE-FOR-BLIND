@@ -1,0 +1,1 @@
+This project provides a real-time audio feedback system for visually impaired individuals, helping them navigate safely and independently. Using deep learning techniques like Convolutional Neural Networks (CNNs) and YOLO for obstacle detection, object identification, and weather updates, the system improves spatial awareness and ensures safety during outdoor navigation.
